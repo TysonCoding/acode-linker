@@ -1,16 +1,16 @@
-# PathLinker
+# Linker
 
-It helps you to easily navigate to other files that are linked in your currently opened files and also helps it testing your file paths
+It helps you to easily to navigate to other files that are linked in your currently opened files and also helps it testing your file paths
 
 <details>
     <summary>
         Updates
     </summary>
-    <code><strong>v1.0.1</strong></code>
+    <code><strong>v1.0.0</strong></code>
     <ul>
         <li>Now it will able to detect any symbols between the path.</li>
     </ul>
-    <code><strong>v1.0.2</strong></code>
+    <code><strong>v1.0.1</strong></code>
     <ul>
         <li>Removed all deprecated api's</li>
         <li>Fixed bugs</li>
@@ -32,6 +32,6 @@ Instead of `Go to file` use this - `⎋` icon
 
 **Contribution are welcome 🥰!**
 
-**For Features Request or Bug report -> [here](https://github.com/bajrangCoder/acode-path-linker)**
+**For Features Request or Bug report -> [here](https://github.com/TysonCoding/acode-linker)**
 
-**Thanks for using ❣️❤️, Leave a 🌟 [here](https://github.com/bajrangCoder/acode-path-linker)**
+**Thanks for using ❣️❤️, Leave a 🌟 [here](https://github.com/TysonCoding/acode-linker)**
