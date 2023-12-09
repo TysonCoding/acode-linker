@@ -1,7 +1,7 @@
 {
-  "name": "acode-path-linker",
-  "version": "1.0.2",
-  "description": "Path Linker For Acode",
+  "name": "acode-linker",
+  "version": "1.0.0",
+  "description": "The Linker For Acode",
   "main": "dist/main.js",
   "scripts": {
     "start-dev": "node .devServer/start-dev",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bajrangCoders/acode-plugin-template.git"
+    "url": "git+https://github.com/TysonCoding/acode-plugin-template.git"
   },
-  "author": "Raunak Raj",
+  "author": "Fousseyni DIALLO",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bajrangCoders/acode-plugin-template/issues"
+    "url": "https://github.com/TysonCoding/acode-plugin-template/issues"
   },
-  "homepage": "https://github.com/bajrangCoders/acode-plugin-template#readme",
+  "homepage": "https://github.com/TysonCoding/acode-plugin-template#readme",
   "dependencies": {
 
     "autoprefixer": "^10.4.14",
