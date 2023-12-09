@@ -6,7 +6,7 @@
   "readme": "readme.md",
   "icon": "icon.png",
   "files": [],
-  "price": 4€,
+  "price": "4€",
   "minVersionCode": 201,
   "author": {
     "name": "Fousseyni DIALLO",
